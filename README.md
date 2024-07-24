@@ -1,1 +1,1 @@
-Together with the team, we fulfilled an order to develop a website for a coffee shop in our city. We designed and built a website with a bunch of product cards and the ability to buy goods. It was the first time we used the shopping cart functionality.
+React Reading List is a single-page application (SPA) built with React. The app allows users to create, view, edit, and delete lists of books they want to read or have already read. 
